@@ -12,24 +12,6 @@
 
 ---
 
-## **💼 Work & Research Experience**
-
-### 📊 **Incoming Quantitative Researcher – Quntizer**
-- Developing **quantitative trading strategies** using **AI, ML, and mathematical modeling**  
-- Exploring **high-frequency trading, financial markets, and risk modeling**  
-
-### 🧠 **Research Intern – Menteve (Mar’24 - Apr’24)**
-- Developed **Neurofeedback Games** that adapt based on **EEG brainwave signals**  
-- Integrated **PyLSL & Unity** for real-time **brain-computer interaction**  
-- Engineered **3 games analyzing mind wandering**, benefiting users with **Mild Cognitive Impairment & Dementia**  
-
-### 🎮 **Coordinator – Game Development Club, IIT Kanpur (Apr’23 - Mar’24)**
-- **Led a team of 30+ members**, organizing **workshops & hackathons** for 100+ students  
-- **Secured INR 1 lakh+ funding** from **Vizuara** for **game development initiatives**  
-- Conducted training on **AI in gaming, procedural programming, and computer graphics**  
-
----
-
 ## **🔬 My Technical Skills**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,unity,unrealengine,git,github,opencv,pytorch,tensorflow" alt="Tech Stack">
