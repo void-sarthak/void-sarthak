@@ -1,57 +1,78 @@
-<!-- Welcome Section -->
-# Hi there, I'm **Sarthak**! 👋
+<!-- Cool Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sarthak+Agarwal!;B.Tech+Student+at+IIT+Kanpur;AI+%7C+Game+Dev+%7C+VR+%7C+ML+%7C+BioTech+Innovator" alt="Typing SVG" />
+</h1>
 
-<!-- You can replace the image URL with your own avatar or any fun image -->
+<!-- Avatar -->
 <p align="center">
-  <img src="https://github.com/void-sarthak.png" alt="avatar" width="150" height="150" />
+  <img src="https://github.com/void-sarthak.png" width="150" height="150" alt="Sarthak Agarwal Avatar">
 </p>
 
 ---
 
-<!-- About Me Section -->
-## About Me
-I'm a passionate developer and open-source enthusiast with a keen interest in building innovative solutions.  
-- 🔭 I’m currently working on **[Your Project Name](#)**  
-- 🌱 I’m learning advanced techniques in **[Your Field/Technology]**  
-- 👯 I’m looking to collaborate on **open source projects**  
-- 💬 Ask me about **web development, AI/ML, or any cool tech topics**  
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**  
-- 😄 Pronouns: **He/Him**  
+## **👨‍💻 About Me**
+🎓 **B.Tech in Biological Science and Bioengineering** @ IIT Kanpur  
+🎮 **Game Developer & AI Enthusiast**  
+📊 **Football Match Analysis | ML Research | Neurofeedback Games**  
+🚀 **Coordinator, Game Development Club, IIT Kanpur**  
+🧠 Exploring **Neuroscience + AI** & building **interactive VR worlds**  
 
 ---
 
-<!-- Technologies & Tools Section -->
-## Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-<!-- Add or remove badges as needed -->
+## **🔬 My Technical Skills**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,unity,cs,opencv,pytorch,tensorflow,git,linux,github" alt="Tech Stack">
+</p>
 
 ---
 
-<!-- GitHub Stats Section -->
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=void-sarthak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=void-sarthak&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+## **🚀 Projects & Research**
+### 🔹 **Neurofeedback Games (Unity + PyLSL)**
+🔬 Developed interactive **VR-based cognitive exercises** for MCI & Dementia  
+🔗 **[GitHub](https://github.com/void-sarthak)** | **[Portfolio](https://void-sarthak.github.io/Portfolio)**
+
+### 🔹 **Football Match Analysis (YOLOv5 + OpenCV)**
+⚽ Built a deep-learning model for **player tracking and ball detection**  
+🔗 **[GitHub](https://github.com/void-sarthak)** | **[Portfolio](https://void-sarthak.github.io/Portfolio)**
+
+### 🔹 **ZenScape: VR Meditation App (Unity + VR SDK)**
+🧘 Developed a **calming VR experience** with 85% positive feedback  
+🔗 **[GitHub](https://github.com/void-sarthak)** | **[Portfolio](https://void-sarthak.github.io/Portfolio)**
 
 ---
 
-<!-- Connect with Me Section -->
-## Connect with Me
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/void-sarthak)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-twitter-handle)
-  [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me)](https://your-website.com)
-</div>
+## **📊 GitHub Stats & Activity**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=void-sarthak&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=void-sarthak&theme=tokyonight" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=void-sarthak&layout=compact&theme=tokyonight" width="48%">
+</p>
 
 ---
 
-<!-- Optional: Blog Posts or Recent Activity -->
-## Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My GitHub Profile](#)
-- [Tips & Tricks for Developers](#)
-<!-- BLOG-POST-LIST:END -->
+## **🌎 Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/void-sarthak-agarwal">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/void-sarthak">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+  </a>
+  <a href="https://void-sarthak.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square">
+  </a>
+</p>
+
+---
+
+## **✨ Fun Fact**
+💡 _Did you know?_ I built a **game anti-cheat framework** with 83% accuracy! 🎮
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=void-sarthak&color=blue" alt="Profile Views">
+</p>
