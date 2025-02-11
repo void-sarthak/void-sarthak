@@ -84,11 +84,6 @@
 
 ---
 
-## **✨ Fun Fact**
-💡 *Did you know?* I built a **game anti-cheat framework** with **83% accuracy**! 🎮  
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=void-sarthak&color=blue" alt="Profile Views">
 </p>
