@@ -2,7 +2,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=800&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sarthak+Agarwal!;B.Tech+Student+at+IIT+Kanpur;🚀+Quantitative+Trading+%7C+Game+Development;🤖+AI+%26+ML+Research+%7C+Virtual+Reality" alt="Typing SVG" />
 </h1>
----
 
 ## **👨‍💻 About Me**
 - 🎓 **B.Tech in Biological Science and Bioengineering** @ IIT Kanpur  
