@@ -21,23 +21,24 @@
 
 ## **🔬 My Technical Skills**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,unity,cs,opencv,pytorch,tensorflow,git,linux,github" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,cpp,unity,opencv,pytorch,tensorflow,git,linux,github" alt="Tech Stack">
 </p>
 
 ---
 
 ## **🚀 Projects & Research**
-### 🔹 **Neurofeedback Games (Unity + PyLSL)**
-🔬 Developed interactive **VR-based cognitive exercises** for MCI & Dementia  
-🔗 **[GitHub](https://github.com/void-sarthak)** | **[Portfolio](https://void-sarthak.github.io/Portfolio)**
-
 ### 🔹 **Football Match Analysis (YOLOv5 + OpenCV)**
 ⚽ Built a deep-learning model for **player tracking and ball detection**  
-🔗 **[GitHub](https://github.com/void-sarthak)** | **[Portfolio](https://void-sarthak.github.io/Portfolio)**
+🔗 **[GitHub](https://github.com/void-sarthak/Football-Analysis)** 
 
 ### 🔹 **ZenScape: VR Meditation App (Unity + VR SDK)**
+🧘 Developed a **VR experience for meditation in natural environments** with 85% positive feedback  
+🔗 **[GitHub](https://github.com/void-sarthak/ZenScape)**
+
+### 🔹 **Security Analysis CAR-PUFs (Machine Learning)**
 🧘 Developed a **calming VR experience** with 85% positive feedback  
-🔗 **[GitHub](https://github.com/void-sarthak)** | **[Portfolio](https://void-sarthak.github.io/Portfolio)**
+🔗 **[GitHub](https://github.com/void-sarthak/Security-Analysis-CAR-PUFs)**
+
 
 ---
 
@@ -69,7 +70,7 @@
 ---
 
 ## **✨ Fun Fact**
-💡 _Did you know?_ I built a **game anti-cheat framework** with 83% accuracy! 🎮
+💡 _Did you know?_ I built a **game anti-cheat client** with 83% accuracy! 🎮
 
 ---
 
