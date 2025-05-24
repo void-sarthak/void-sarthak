@@ -5,7 +5,7 @@
 
 ## **👨‍💻 About Me**
 - 🎓 **B.Tech in Biological Science and Bioengineering** @ IIT Kanpur  
-- 📊 **Incoming Quantitative Researcher** at **Quantizer**  
+- 📊 **Quantitative Researcher**
 - 🧠 **Former Research Intern** at **Menteve**, focused on **Neuroscience based Technological Advancements**  
 - 🚀 **Ex-Coordinator, Game Development Club, IIT Kanpur**  
 - 🎮 Passionate about **Quantitative Trading | Game Development | AI & ML Research | Virtual Reality**  
